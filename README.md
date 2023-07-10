@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **companies where Data-Driven decisions matter**
 
-- 👨‍💻 All of my projects are available at [LINK PORTIFOLIO](LINK PORTIFOLIO)
+- 👨‍💻 All of my projects are available here, on MyProjects repository
 
 - 📫 How to reach me: marconi.mvital@gmail.com
 
