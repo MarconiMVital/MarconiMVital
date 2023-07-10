@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marconi! Great to have you here!</h1>
 <h3 align="center">This is where I show my projects and my experiences with Data Analysis. Enjoy!</h3>
 
-- 🔭 I’m currently working on **my Data Analyst skills 🤓📖**
+- 🔭 I’m currently working on my **Data Analyst skills 🤓📖**
 
 - 🌱 I’m currently learning **Python, SQL and Power BI**
 
 - 👯 I’m looking to collaborate on **companies where Data-Driven decisions matter**
 
-- 👨‍💻 All of my projects are available here, on MyProjects repository
+- 👨‍💻 All of my projects are available here, on **MyProjects repository**
 
 - 📫 How to reach me: marconi.mvital@gmail.com
 
-- 💬 Ask me about **anything related to Data Analytics. If I know, I will respond promptly. If I don't know, I will learn to find the answer for you!**
+- 💬 Ask me about **anything related to Data Analytics**. If I know, I will respond promptly. If I don't know, I will learn to find the answer for you!
 
 - ⚡ Fun fact: **Eletric guitar player 🎸 and music lover 🧡🎵**
 
