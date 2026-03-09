@@ -17,21 +17,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/flutterflow/7C4DFF" alt="flutterflow" width="40" height="40"/>
-  </a>
-  <a href="https://bubble.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/bubble/1B1B1D" alt="bubble" width="40" height="40"/>
-  </a>
-  <a href="https://www.weweb.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/weweb/6E57FF" alt="weweb" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.xano.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/xano/6E57FF" alt="xano" width="40" height="40"/>
-  </a>
+  <a href="https://flutterflow.io/" target="_blank"><img src="https://img.shields.io/badge/FlutterFlow-7C4DFF?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/></a>
+  <a href="https://bubble.io/" target="_blank"><img src="https://img.shields.io/badge/Bubble-1B1B1D?style=for-the-badge&logo=bubble&logoColor=white" alt="Bubble"/></a>
+  <a href="https://www.weweb.io/" target="_blank"><img src="https://img.shields.io/badge/WeWeb-6E57FF?style=for-the-badge&logo=webflow&logoColor=white" alt="WeWeb"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+  <a href="https://www.xano.com/" target="_blank"><img src="https://img.shields.io/badge/Xano-0A0A0A?style=for-the-badge&logo=xano&logoColor=white" alt="Xano"/></a>
 </p>
 
 <!---
